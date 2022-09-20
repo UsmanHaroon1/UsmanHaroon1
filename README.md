@@ -1,6 +1,8 @@
-# Hi there! I'm Usman Haroon 👋
+# Hi <p>
+  <img src="https://profile-counter.glitch.me/usmanharoon1/count.svg" />
+</p>th visitor! I'm Usman Haroon 👋
 
-## Welcome to my github
+## Welcome to my github profile
 
 Here are some ideas to get you started:
 
