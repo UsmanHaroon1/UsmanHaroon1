@@ -1,6 +1,4 @@
-# Hi <p>
-  <img src="https://profile-counter.glitch.me/usmanharoon1/count.svg" />
-</p>th visitor! I'm Usman Haroon 👋
+# Hi <img src="https://profile-counter.glitch.me/usmanharoon1/count.svg" />th visitor! I'm Usman Haroon 👋
 
 ## Welcome to my github profile
 
