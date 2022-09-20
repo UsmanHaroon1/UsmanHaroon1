@@ -1,4 +1,4 @@
-### Hi there! I'm Usman Haroon 👋
+# Hi there! I'm Usman Haroon 👋
 
 ## Welcome to my github
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://usmanharoon1.github.io)
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://usmanharoon1.github.io/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://usmanharoon1.github.io)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://usmanharoon1.github.io/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
