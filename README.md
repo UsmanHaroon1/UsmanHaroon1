@@ -39,3 +39,8 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+
+
+[website]: https://usmanharoon1.github.io
+[linkedin]: https://in.linkedin.com/in/usman-haroon-engineer
