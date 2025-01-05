@@ -4,13 +4,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on VSCode Extension development for EKL.
-- 🌱 I’m currently learning ES6
+- 🔭 I’m currently working on VSCode Extension development for EKL.(Enhancement ongoing)
+- 🌱 I’m preparing now for AWS Certified developer associate examination.
 - 👯 I’m looking to collaborate on CAA development
 - 💬 Ask me about CATIA,3DExperience,Python...
 - 📫 How to reach me: haroonasr@gmail.com
 - ⚡ Fun fact: I don't celebrate birthdays.
-- 🥅 2022 Goals: Learn more about Web,DS,LLD,HLD
+- 🥅 2025 Goals: Enroll into online diploma degree.
 
 [![Website](https://img.shields.io/website?label=UsmanHaroon.io&styl=for-the-badge&url=https%3A%2F%2Fusmanharoon1.github.io/)](https://usmanharoon1.github.io/)
 [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/usman-haroon.wds-usman.svg)](https://marketplace.visualstudio.com/items?itemName=usman-haroon.wds-usman)
